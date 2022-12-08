@@ -1,0 +1,10 @@
+name: history_service
+homepage: https://github.com/iruzo/history_service
+repository: https://github.com/iruzo/history_service
+documentation: https://github.com/iruzo/history_service/blob/main/README.md
+description: 3 simple functionalities that helps you manage any kind of history.
+
+version: 1.0.1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
